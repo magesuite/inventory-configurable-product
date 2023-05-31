@@ -5,7 +5,7 @@
   "homepage": "https://creativestyle.de",
   "license": "OSL-3.0",
   "require": {
-        "magento/inventory-configurable-product": "*"
+        "magento/module-inventory-configurable-product": "*"
     },
   "autoload": {
     "files": [ "registration.php" ],

@@ -1,5 +1,5 @@
 {
-  "name": "creativestyle/inventory-configurable-product",
+  "name": "creativestyle/magesuite-inventory-configurable-product",
   "description": "Extends Magento_InventoryConfigurableProduct functionality",
   "type": "magento2-module",
   "homepage": "https://creativestyle.de",
